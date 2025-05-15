@@ -1,11 +1,11 @@
-# GrameenConnect
+# RuralReach
 
 Connecting rural communities in India with essential services through technology.
 
 ---
 
 ## 🌐 **Project Overview**
-GrameenConnect is a multilingual, mobile-friendly web application designed to address the challenges faced by rural and semi-urban communities in India. It provides accessible, voice-assisted navigation across five main service areas:
+RuralReach is a multilingual, mobile-friendly web application designed to address the challenges faced by rural and semi-urban communities in India. It provides accessible, voice-assisted navigation across five main service areas:
 
 1. **Agriculture** - Get real-time updates on crop prices, weather, and government schemes.
 2. **Education** - Access online courses and local educational resources.
@@ -36,10 +36,10 @@ GrameenConnect is a multilingual, mobile-friendly web application designed to ad
 ### **Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/GrameenConnect.git
+git clone https://github.com/your-username/RuralReach.git
 
 # Navigate to the project directory
-cd GrameenConnect
+cd RuralReach
 
 # Install dependencies
 npm install
